@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS tekbox_db;
+
+CREATE DATABASE tekbox_db;
